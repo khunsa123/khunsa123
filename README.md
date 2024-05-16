@@ -56,6 +56,6 @@
 
 ## Let's Connect 📫
 
-Feel free to reach out for collaborations, discussions, or anything data-related! You can find me on [LinkedIn](https://www.linkedin.com/in/khunsa-iftikhar-b43a81ab) or drop me an email at [khunsaiftikhar123@gmail.com](mailto:khunsaiftikhar123@gmail.com).
+Feel free to reach out for collaborations, discussions, or anything data-related! You can find me on [LinkedIn](https://www.linkedin.com/in/khunsa-iftikhar/) or drop me an email at [khunsaiftikhar123@gmail.com](mailto:khunsaiftikhar123@gmail.com).
 
 Happy coding! 🚀
