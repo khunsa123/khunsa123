@@ -1,4 +1,4 @@
-<center><img alt="coding" width="800" src="https://github.com/khunsa123/khunsa123/blob/main/White%20%26%20Yellow%20Minimalist%20Email%20Header.png"></center>
+#<center><img alt="coding" width="800" src="https://github.com/khunsa123/khunsa123/blob/main/White%20%26%20Yellow%20Minimalist%20Email%20Header.png"></center>
 
 <h1 align="center">Hi There! 👋, I'm Khunsa Iftikhar</h1>
 <h3 align="center">I'm a passionate Data Scientist with a knack for turning data into actionable insights. My love for working with data is matched only by my dedication to solving real-world problems through analytics and machine learning.</h3>
