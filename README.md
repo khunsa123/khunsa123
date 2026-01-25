@@ -1,9 +1,5 @@
-#<center><img alt="coding" width="800" src="https://github.com/khunsa123/khunsa123/blob/main/White%20%26%20Yellow%20Minimalist%20Email%20Header.png"></center>
-
 <h1 align="center">Hi There! 👋, I'm Khunsa Iftikhar</h1>
 <h3 align="center">I'm a passionate Data Scientist with a knack for turning data into actionable insights. My love for working with data is matched only by my dedication to solving real-world problems through analytics and machine learning.</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/khunsa123/khunsa123/blob/main/coding%20animation.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khunsa123&label=Profile%20views&color=0e75b6&style=flat" alt="khunsa123" /> </p>
