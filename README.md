@@ -1,93 +1,94 @@
-<h1 align="center">Khunsa Iftikhar</h1>
+# Khunsa Iftikhar  
+**Computational Neuroscience & AI Researcher**  
+EEG Signal Processing | Brain–Computer Interfaces | AI for Mental Health  
 
-<h3 align="center">
-Computational Neuroscience–Oriented Data Scientist | EEG & BCI Research | AI for Mental Health
-</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/khunsa-iftikhar/">LinkedIn</a> •
-<a href="https://scholar.google.com/Q-mM508AAAAJ">Google Scholar</a> •
-<a href="https://researchgate.net/profile/Khunsa-Iftikhar/publications">ResearchGate</a> •
-<a href="https://github.com/khunsa123">GitHub</a> •
-<a href="https://khunsa-iftikhar">Website</a>
-</p>
+🔗 [LinkedIn](https://www.linkedin.com/in/khunsa-iftikhar/) • [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q-mM508AAAAJ) • [ResearchGate](https://www.researchgate.net/profile/Khunsa-Iftikhar/publications) • [GitHub](https://github.com/khunsa123) • [Website](https://sites.google.com/view/khunsa-iftikhar/) • [Kaggle](https://www.kaggle.com/khiftikhar)
 
 ---
 
-## About Me
+## 🧠 About Me
+I am a computational neuroscience–oriented data scientist and AI researcher with an MSc (Distinction) in Big Data Science and Technology from the University of Bradford (UK).
 
-I am a data scientist and AI researcher with a strong academic trajectory toward **computational neuroscience, EEG signal analysis, and brain–computer interfaces (BCI)**. I hold an MSc with Distinction in **Big Data Science and Technology** from the University of Bradford and a BSc in **Software Engineering**.
+My work focuses on **EEG signal processing, affective computing, and brain–computer interfaces (BCI)**, with the goal of modeling cognitive and emotional states using machine learning and deep learning techniques.
 
-My research experience spans **time-series modeling, deep learning, affective computing, and EEG-based cognitive analysis**. I am a published author in *Springer Lecture Notes in Computer Science (SGAI 2023)* and have hands-on experience with **EEG data acquisition, preprocessing, and experimental analysis using Emotiv BCI systems**.
+I have hands-on experience in EEG data acquisition, preprocessing, feature extraction, and experimental design using Emotiv BCI systems. My research spans both **neural signal analysis and multimodal AI systems**.
 
-I am currently preparing and expanding my research portfolio for **fully funded PhD opportunities in neuroscience and AI-enabled mental health research**.
+📌 I am currently applying for **fully funded PhD positions** in Computational Neuroscience, AI, and Neurotechnology, and actively engaging with international research groups.
 
 ---
 
-## Research Interests
-
-- Computational Neuroscience & Neural Signal Analysis  
-- EEG Signal Processing and Feature Learning  
+## 🔬 Research Interests
+- Computational Neuroscience & Neural Signal Decoding  
+- EEG Signal Processing & Feature Learning  
 - Brain–Computer Interfaces (BCI)  
-- AI for Cognitive and Mental Health Research (ADHD, affective disorders)  
-- Time-Series Modeling and Longitudinal Data Analysis  
+- Affective Computing & Emotion Recognition  
+- AI for Mental Health (ADHD, cognitive monitoring)  
+- Multimodal Learning (EEG + Audio + Behavioral Data)  
+- Time-Series & Longitudinal Data Analysis  
 
 ---
 
-## Education
-
+## 🎓 Education
 **MSc, Big Data Science and Technology (Distinction)**  
-University of Bradford, UK  
+University of Bradford, United Kingdom  
+*Dissertation:* Smart Meter Data Analysis: Energy Consumption Through Clustering Daily and Hourly Time-Series Data  
 
 **BSc (Hons), Software Engineering**  
 COMSATS University Islamabad, Pakistan  
-*Final Year Project: EEG-based BCI Attention Training System*
+*Final Year Project:* EEG-based BCI Attention Training System  
 
 ---
 
-## Publications
+## 📄 Publications
 
-- **Iftikhar, K.**, et al. (2023). *Speech Emotion Recognition Using Deep Learning.*  
-  Lecture Notes in Computer Science, Springer (SGAI 2023).
+**[C1] Ahmed, W., Riaz, S., Iftikhar, K., Konur, S. (2023)**  
+Speech Emotion Recognition Using Deep Learning  
+Lecture Notes in Computer Science (LNCS), Vol. 14381, Springer (SGAI 2023)  
+[Read more](https://www.researchgate.net/publication/375476014_Speech_Emotion_Recognition_Using_Deep_Learning)
 
-- **Manuscript in Preparation:**  
-  EEG-based attention and cognitive state analysis using consumer-grade BCI devices.
-
----
-
-## Technical Expertise (Research-Focused)
-
-**Programming & Analysis**
-- Python, R, MATLAB
-
-**Machine Learning**
-- CNNs, LSTMs, Feature Engineering, Model Evaluation  
-- PyTorch, TensorFlow, scikit-learn
-
-**Signal & Time-Series Analysis**
-- EEG preprocessing, filtering, spectral analysis  
-- Longitudinal and temporal data modeling
-
-**BCI & Experimental Tools**
-- Emotiv Insight / Epoc+, Emotiv SDK  
-- Unity (BCI-based interactive systems)
-
-**Research Tools**
-- Jupyter, Google Colab, LaTeX, Git, SQL
+**[J1] Gondal, T., Iftikhar, K., Hayyat, U. (2017)**  
+CODEN(USA): A Novel Inverter Design with Optimized Multilevel Programmed Drive Sequences 
+The Journal of Scientific and Engineering Research, 4(6)  
+[Read more](https://www.researchgate.net/publication/333893474_CODENUSA_A_novel_inverter_design_with_optimized_multilevel_programmed_drive_sequences)
 
 ---
 
-## Selected GitHub Activity
+## 🧪 Ongoing Research
+- EEG-based Cognitive State and Attention Modeling using BCI  
+- Machine learning approaches for neural signal classification  
+- Collaborative EEG/BCI research with academic supervisors  
 
+📌 Manuscript currently under preparation for peer-reviewed submission.
+
+---
+
+## 🛠️ Research Skills
+
+**Programming:** Python, R, MATLAB  
+**Machine Learning:** CNNs, LSTMs, Classification, Model Evaluation  
+**Frameworks:** PyTorch, TensorFlow, scikit-learn  
+**Signal Processing:** EEG preprocessing, filtering, artifact removal, spectral analysis  
+**BCI Tools:** Emotiv Insight / Epoc Devices / NeuroSky MindWave Mobile   
+**Other Tools:** Jupyter, Google Colab, LaTeX, Git, SQL  
+
+---
+
+## 📊 GitHub Activity
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khunsa123&layout=compact" />
 </p>
 
 ---
 
-## Contact
+## 🌍 Research Engagement
+- Actively applying to fully funded PhD programs in AI, Neuroscience, and Neurotechnology 
+- Engaging with academic supervisors and research groups  
+- Open to interdisciplinary collaboration in neurotechnology and AI  
 
-I am open to **research collaborations, PhD supervision discussions, and interdisciplinary projects**.
+---
+
+## 📫 Contact
+I am open to PhD opportunities, research collaborations, and academic partnerships.
 
 📧 Email: khunsaiftikhar123@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/khunsa-iftikhar/
+🔗 LinkedIn: https://www.linkedin.com/in/khunsa-iftikhar/  
