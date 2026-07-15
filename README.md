@@ -1,156 +1,382 @@
-# Khunsa Iftikhar  
-**Computational Neuroscience Researcher | EEG/iEEG Signal Processing | Brain–Computer Interfaces | Pain & Cognitive Neurophysiology**
+# 👋 Hi, I'm Khunsa Iftikhar
+
+### 🧠 Computational Neuroscience Researcher | Multimodal Neurophysiology | NeuroAI | Biomedical Signal Processing | Human–AI Interaction
 
 🔗 [LinkedIn](https://www.linkedin.com/in/khunsa-iftikhar/) • [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q-mM508AAAAJ) • [ResearchGate](https://www.researchgate.net/profile/Khunsa-Iftikhar/publications) • [GitHub](https://github.com/khunsa123) • [Website](https://sites.google.com/view/khunsa-iftikhar/) • [Kaggle](https://www.kaggle.com/khiftikhar)
 
 ---
 
-## 🧠 Research Identity
+# 🧠 Research Identity
 
-My research focuses on computational modeling of human cognitive, affective, and nociceptive states using multimodal neurophysiological signals (EEG, EMG, iEEG/ECoG), leveraging machine learning, time-series analysis, and responsible AI methodologies developed through applied academic and industrial research contexts.
+I am a computational neuroscience researcher working at the intersection of **neuroscience**, **machine learning**, and **biomedical signal processing**. My research focuses on understanding human cognition, decision-making, pain, motor function, and physiological states through multimodal neurophysiological data.
 
-I work at the intersection of:
+I develop interpretable and reproducible machine learning pipelines that integrate neural and peripheral physiological signals—including **EEG**, **iEEG**, **ECoG**, **EMG**, **ECG**, **eye tracking**, **GSR**, and **PPG**—to build robust, subject-generalizable models for neuroscience, neurotechnology, and human-centered AI.
 
-> 🧠 Computational Neuroscience × 📡 Neural Signal Processing × 🤖 Machine Learning × ⚖️ Responsible AI
-
-My work focuses on developing **interpretable, subject-generalizable machine learning pipelines** for neural decoding, with emphasis on:
-
-- Pain neurophysiology and objective pain assessment  
-- Cognitive state and attention modeling  
-- Multimodal brain–computer interface (BCI) systems  
-- Translational neurotechnology and biomedical AI  
+My long-term research goal is to advance **NeuroAI** by developing computational methods that improve our understanding of human brain function while enabling intelligent, adaptive, and trustworthy human–AI systems.
 
 ---
 
-## 🔬 Current Research Directions
+# 🔬 Research Interests
 
-### ⚡ Pain Neurophysiology & Objective Pain Assessment
-- Laser-evoked pain EEG biomarker analysis  
-- ERP, spectral, and Hjorth feature extraction  
-- Source localization of nociceptive processing  
-- ML-based pain vs non-pain decoding  
-- Cross-subject validation using LOSO evaluation  
+My research interests span multiple areas of computational neuroscience and biomedical AI, including:
 
-### 🧠 Multimodal Neural Decoding
-- EEG + iEEG/ECoG integration  
-- Motor imagery decoding and neural representation learning  
-- High-gamma cortical activity analysis  
-- Time–frequency modeling of neural states  
-
-### 🎭 Cognitive & Affective State Modeling
-- Attention and cognitive workload estimation  
-- Emotion recognition from EEG and speech  
-- Consumer-grade BCI signal analysis  
-- Multimodal affective computing systems  
+* 🧠 Computational Neuroscience
+* 📡 Neural Signal Processing
+* 🤖 Machine Learning for Biomedical Signals
+* 🧬 NeuroAI
+* 👁️ Psychophysiology & Multimodal Biosignal Analysis
+* 🤝 Human–AI Interaction
+* 🧩 Brain–Computer Interfaces (BCI)
+* ⚕️ Clinical Neurophysiology
+* 💡 Cognitive Neuroscience
+* ❤️ Pain Neuroscience
+* 💪 Rehabilitation Neuroscience
+* 🔍 Explainable AI for Healthcare
 
 ---
 
-## 📊 Research Ecosystem (GitHub Projects)
+# 🔬 Current Research Directions
 
-### 🧠 Core Computational Neuroscience Research
-- [Multimodal NeuroPhysio Signal Research](https://github.com/khunsa123/Multimodal-NeuroPhysio-Signal-Research)  
-  EEG, ECoG, EMG, and multimodal neural decoding research pipelines.
+## 🧠 Computational Neuroscience & Neural Decoding
 
-### ⚡ Pain Neurophysiology Research
-- Laser-Evoked Pain EEG Analysis  
-- Somatosensory Pain iEEG/ECoG Analysis  
-
-Focused on nociceptive biomarker discovery, source-level neural analysis, and objective pain decoding using EEG and intracranial recordings.
-
-### 🎭 Affective Computing & Emotion Recognition
-- [Emotion Recognition](https://github.com/khunsa123/Emotion-Recognition)  
-
-Speech and EEG-based affective computing research using deep learning and multimodal learning approaches.
-
-### 🤖 Applied AI Systems
-- [Applied AI Projects](https://github.com/khunsa123/Applied-AI-Projects)  
-
-Applied machine learning systems, LLM workflows, retrieval pipelines, and AI-assisted applications.
-
-### 📊 Foundational Data Science & ML
-- [Data Science Projects](https://github.com/khunsa123/Data-Science-Projects)  
-
-Classical ML, NLP, predictive analytics, and time-series analysis projects supporting broader computational research workflows.
-
-### 💻 Software Engineering & Computational Tools
-- [Applied Programming Projects](https://github.com/khunsa123/Applied-Programming-Projects)  
-
-Python-based tools, simulations, visualization systems, and computational utilities.
+* EEG, iEEG, and ECoG signal analysis
+* Neural biomarkers of cognition and pain
+* Cross-subject neural decoding
+* Spectral and time-frequency analysis
+* Event-related neural activity
 
 ---
 
-## 🎓 Academic Background
+## 👁️ Multimodal Psychophysiology
 
-### **MSc, Big Data Science and Technology (Distinction)**  
-**University of Bradford, United Kingdom**
+Developing multimodal pipelines integrating:
 
-- Dissertation conducted within the SAFI (Safety in AI) research ecosystem  
-- Exposure to responsible AI, industrial ML systems, and applied time-series analytics  
-- Worked in research environments focused on safety-critical and real-world AI applications  
+* EEG
+* Eye Tracking
+* Galvanic Skin Response (GSR)
+* Photoplethysmography (PPG)
 
-### **BSc (Hons), Software Engineering**  
-**COMSATS University Islamabad, Pakistan**
+Research topics include:
 
-- Final Year Project: EEG-based Brain–Computer Interface Attention Training System  
-- Early research experience in EEG signal acquisition and BCI systems  
+* Cognitive workload estimation
+* Blink and saccade analysis
+* Pupil dynamics
+* Physiological arousal modeling
+* Multimodal cognitive-state decoding
+* EEG–Eye Tracking synchronization
 
 ---
 
-## 📝 Publications & Research Output
+## 🤝 Human–AI Interaction & Neuroadaptive Systems
 
-### **Ahmed, W., Riaz, S., Iftikhar, K., Konur, S. (2023)**  
-**Speech Emotion Recognition Using Deep Learning**  
-Springer LNCS — SGAI 2023  
+Current interests include:
+
+* Human cognitive state estimation
+* Operator workload prediction
+* Physiological monitoring for adaptive systems
+* Human-centered AI
+* Intelligent decision-support systems
+* Neuroadaptive interfaces
+* Human performance modeling
+
+---
+
+## ❤️ Pain Neuroscience
+
+Research focused on:
+
+* Laser-evoked EEG responses
+* Pain biomarker discovery
+* Objective pain assessment
+* Cortical pain processing
+* Intracranial pain decoding using iEEG and ECoG
+
+---
+
+## 💪 Brain–Computer Interfaces
+
+* EEG-based attention decoding
+* Motor imagery analysis
+* Neural representation learning
+* Consumer-grade BCI research
+* Multimodal BCI systems
+
+---
+
+# 📂 Research Portfolio
+
+## 🧠 Computational Neuroscience & Multimodal Signal Research
+
+My primary research repository contains a growing portfolio of computational neuroscience projects covering neural signal processing, psychophysiology, machine learning, and multimodal biomedical data analysis.
+
+Current projects include:
+
+### 🟢 EEG Epilepsy Data Analysis
+
+* EEG preprocessing
+* Seizure detection
+* Waveform analysis
+* Classical ML and CNN models
+
+### 🟢 EEG Schizophrenia Classification
+
+* Resting-state EEG
+* Subject-independent classification
+* LSTM and classical machine learning
+* Leave-One-Subject-Out evaluation
+
+### 🟢 ECG Anomaly Detection & Classification
+
+* ECG signal processing
+* Autoencoder-based anomaly detection
+* Ensemble classification
+* Clinical signal analytics
+
+### 🟢 EEG-BCI Research Copilot
+
+* EEG feature engineering
+* Brain–Computer Interface workflows
+* Neural decoding pipelines
+
+### 🟢 Laser-Evoked Pain EEG Analysis
+
+* Pain biomarker discovery
+* Event-related potentials
+* Spectral feature analysis
+* Manuscript preparation
+
+### 🟢 EMG Stroke Recovery Monitoring
+
+* EMG preprocessing
+* Muscle activation analysis
+* Rehabilitation monitoring
+* Motor recovery analytics
+
+### 🟡 Multimodal Motor Imagery Analysis
+
+* EEG + EMG fusion
+* Motor imagery decoding
+* Sensor fusion
+* Cross-subject evaluation
+
+### 🟡 Somatosensory Pain iEEG-ECoG Analysis
+
+* Intracranial recordings
+* Pain decoding
+* Time-frequency analysis
+* Translational neuroscience
+
+### 🟢 Multimodal Psychophysiology Pipeline (OpenNeuro DS007537)
+
+A complete multimodal analysis pipeline integrating:
+
+* 66-channel EEG
+* Eye Tracking
+* GSR
+* PPG
+
+The project consists of five independent studies covering:
+
+* Blink detection & cognitive load modeling
+* Saccade latency & decision-making
+* Pupil dilation & physiological arousal prediction
+* Multimodal cognitive load classification
+* EEG–Eye Tracking synchronization
+
+---
+
+# 🛠 Technical Expertise
+
+## Programming & Scientific Computing
+
+* Python
+* MATLAB
+* R
+* SQL
+
+---
+
+## Machine Learning & AI
+
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* CNNs
+* LSTMs
+* Transformers
+* Random Forests
+* Gradient Boosting
+* Support Vector Machines
+* Autoencoders
+* Ensemble Learning
+* Explainable AI
+
+---
+
+## Neurophysiological Signal Processing
+
+Experienced working with:
+
+* EEG
+* iEEG
+* ECoG
+* EMG
+* ECG
+* Eye Tracking
+* GSR
+* PPG
+
+Signal processing techniques include:
+
+* Spectral analysis
+* Time-frequency analysis
+* Power spectral density estimation
+* ERP analysis
+* HR and HRV estimation
+* Blink detection
+* Saccade detection
+* Pupil dynamics
+* EEG epoching
+* Artifact correction
+* Multimodal synchronization
+* Physiological feature engineering
+
+---
+
+## Scientific Libraries
+
+* MNE-Python
+* NeuroKit2
+* NumPy
+* Pandas
+* SciPy
+* Matplotlib
+* Plotly
+* pyEDFlib
+
+---
+
+## Development Tools
+
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* Git
+* LaTeX
+
+---
+
+# 🔬 Research Philosophy
+
+My work emphasizes reproducible and interpretable computational neuroscience through:
+
+* Transparent preprocessing pipelines
+* Subject-independent evaluation
+* Leave-One-Subject-Out validation
+* Prevention of data leakage
+* Statistical hypothesis testing
+* Explainable machine learning
+* Multimodal data fusion
+* Publication-quality documentation
+
+I aim to build computational methods that are not only accurate but also scientifically interpretable and applicable to real-world neuroscience and healthcare problems.
+
+---
+
+# 📚 Publications
+
+## Published
+
+**Ahmed, W., Riaz, S., Iftikhar, K., & Konur, S. (2023).**
+
+**Speech Emotion Recognition Using Deep Learning**
+
+Springer Lecture Notes in Computer Science (LNCS 14381), SGAI 2023.
+
 🔗 https://www.researchgate.net/publication/375476014_Speech_Emotion_Recognition_Using_Deep_Learning
 
-### Manuscripts in Preparation
-- EEG-Based Attention and Cognitive State Analysis Using Consumer-Grade BCI Devices  
-- Laser-Evoked Pain EEG Biomarkers for Objective Pain Detection  
+---
+
+## Ongoing Research
+
+* EEG-Based Attention and Cognitive State Analysis Using Consumer-Grade Brain–Computer Interface Devices
+* Laser-Evoked Pain EEG Biomarkers for Objective Pain Detection
 
 ---
 
-## 🛠️ Technical Skills
+# 🎓 Education
 
-### Programming & Scientific Computing
-Python • MATLAB • R • SQL
+## MSc Big Data Science and Technology (Distinction)
 
-### Machine Learning & Deep Learning
-SVM • Random Forests • CNNs • LSTMs • Transformers • scikit-learn • PyTorch • TensorFlow
+**University of Bradford, United Kingdom**
 
-### Signal Processing & Neurophysiology
-MNE-Python • EEG preprocessing • ICA • ERP analysis • Time–frequency analysis • Spectral analysis • Source localization
+Conducted MSc dissertation research within the **SAFI Research Group** under the supervision of **Dr. ARA Abdullatif**.
 
-### Data Science & Visualization
-NumPy • Pandas • SciPy • Matplotlib • Seaborn • Plotly
+**Dissertation:**
+*Smart Meter Data Analysis: Energy Consumption Through Clustering Daily and Hourly Time-Series Energy Data*
 
-### Research & Development Tools
-Jupyter Notebook • VS Code • Google Colab • Git • LaTeX
+The project addressed multidisciplinary research challenges involving time-series data analysis, unsupervised machine learning, clustering techniques, and large-scale energy consumption modeling. This work strengthened my research skills in data-driven modeling, statistical analysis, and reproducible scientific workflows while collaborating within an active university research group.
 
 ---
 
-## 🌍 Research Direction
+## BSc (Hons) Software Engineering
 
-I am currently focused on advancing research in:
+**COMSATS University Islamabad, Pakistan**
 
-- Multimodal neurophysiological signal decoding  
-- Pain-evoked neural biomarkers  
-- Cross-subject generalizable ML for neural signals  
-- Explainable and responsible AI for biomedical systems  
-- Translational BCI systems for cognitive and clinical neuroscience  
+Final Year Project:
 
-📌 Actively applying for fully funded PhD positions in:
-- Computational Neuroscience  
-- Brain–Computer Interfaces (BCI)  
-- Neurotechnology  
-- Biomedical AI  
+**EEG-Based Brain–Computer Interface Attention Training System**
+
+This project introduced me to EEG signal acquisition, neural signal processing, and Brain–Computer Interface research, laying the foundation for my subsequent work in computational neuroscience and multimodal biomedical signal analysis.
 
 ---
 
-## 📫 Contact
+# 🚀 Research Vision
 
-📧 Email: **khunsaiftikhar123@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/khunsa-iftikhar/
+I am interested in advancing computational methods for understanding human brain function through multimodal physiological data.
+
+My long-term research vision includes:
+
+* NeuroAI
+* Computational Neuroscience
+* Human–AI Interaction
+* Brain–Computer Interfaces
+* Cognitive Neuroscience
+* Biomedical Signal Processing
+* Explainable AI
+* Multimodal Machine Learning
+* Neurotechnology
+* Adaptive Intelligent Systems
 
 ---
 
-⭐ *If you find my work interesting, feel free to explore the repositories or connect for research collaboration.*
+# 🤝 Research Collaboration
+
+I welcome collaborations in:
+
+* Computational Neuroscience
+* NeuroAI
+* Human–AI Interaction
+* Biomedical Signal Processing
+* Brain–Computer Interfaces
+* Psychophysiology
+* Machine Learning for Healthcare
+* Open-source neuroscience research
+
+---
+
+# 📫 Contact
+
+📧 **Email:** [khunsaiftikhar123@gmail.com](mailto:khunsaiftikhar123@gmail.com)
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/khunsa-iftikhar/
+
+🔗 **Google Scholar**
+
+🔗 **ResearchGate**
+
+🌐 **Website**
+
+---
+
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories or connect if you're interested in computational neuroscience, multimodal signal processing, NeuroAI, or collaborative research.*
